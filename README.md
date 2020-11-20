@@ -5,7 +5,7 @@ Autocomplete `require`s using your project's `Gemfile` as the source.
 Notice that the autocompletion is only triggered for instructions like
 `require "cursor_here"` and `require 'cursor_here'`.
 
-![Sublime Text: Bundler Autocomplete](https://github.com/fnando/sublime-bundler-autocomplete/raw/master/bundler-autocomplete.gif)
+![Sublime Text: Bundler Autocomplete](https://github.com/fnando/sublime-bundler-autocomplete/raw/main/bundler-autocomplete.gif)
 
 ## License
 
