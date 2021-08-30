@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Bundler Autocomplete: Clear Cache",
+    "command": "bundler_autocomplete_clear_cache"
+  }
+]
